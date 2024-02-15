@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Project Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Intro Section -->
+    <section id="intro">
+        <div class="intro-content">
+            <h1>Job Tracker</h1>
+            <p>A simple app to track your job applications</p>
+            <a href="#features" class="btn">Try it now</a>
+        </div>
+    </section>
+
+    <!-- Navigation -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="#intro">Home</a></li>
+            <li><a href="#features">Features</a></li>
+            <li><a href="#about">About</a></li>
+        </ul>
+    </nav>
+</html>

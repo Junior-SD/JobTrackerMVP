@@ -1,0 +1,12 @@
+<html>
+<!-- About Section -->
+    <section id="about">
+        <div class="about-content">
+            <h2>About the Project</h2>
+            <p>This project was inspired by my own experience of job hunting after completing my studies. I struggled to keep track of all the applications I submitted and their status, so I decided to create a solution to streamline the process.</p>
+            <p>This is a Portfolio Project for Holberton School, created with the aim of showcasing my skills in web development.</p>
+            <p>View the project on <a href="https://github.com/yourusername/job-tracker" target="_blank">GitHub</a></p>
+            <p>Connect with me on <a href="https://linkedin.com/yourprofile" target="_blank">LinkedIn</a>, <a href="https://github.com/yourusername" target="_blank">GitHub</a>, and <a href="https://twitter.com/yourusername" target="_blank">Twitter</a></p>
+        </div>
+    </section>
+</html>

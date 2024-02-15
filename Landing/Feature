@@ -1,0 +1,20 @@
+<html>
+<!-- Feature Section -->
+    <section id="features">
+        <div class="feature">
+            <img src="feature1.png" alt="Feature 1">
+            <h2>Simple Interface</h2>
+            <p>Easily add, edit, and track your job applications with a user-friendly interface.</p>
+        </div>
+        <div class="feature">
+            <img src="feature2.png" alt="Feature 2">
+            <h2>Status Updates</h2>
+            <p>Stay organized with real-time status updates on your job applications.</p>
+        </div>
+        <div class="feature">
+            <img src="feature3.png" alt="Feature 3">
+            <h2>Data Visualization</h2>
+            <p>Visualize your application progress with intuitive graphs and charts.</p>
+        </div>
+    </section>
+</html>
